@@ -1,9 +1,16 @@
 Simple 2D Platformer Game
+Objective:
+Collect all fruit collectibles to make a trophy appear. Reaching the trophy takes you to the next stage.
 
 How to Play
-Open the Game: Clone this project using Git and navigate to the folder. Open pixelMan3.exe to start the game
+Clone this project using Git or by downloading a zip file.
+Navigate to the folder and open pixelMan3.exe to start the game.
 
 Controls
-Movement: Use W to move up, A to move left, S to move down, and D to move right.
-Jump: Press Spacebar to jump.
-Exit Game: Use Alt + F4 to close the game.
+Move:
+W: Move Up
+A: Move Left
+S: Move Down
+D: Move Right
+Jump: Press Spacebar.
+Exit Game: Use Alt + F4.
